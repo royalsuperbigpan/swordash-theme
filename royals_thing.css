@@ -8,7 +8,7 @@
 	
 	--accent-hue: 0;
 	--accent-saturation: 0%;
-	--accent-lightness: 43%;
+	--accent-lightness: 80%;
 	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
@@ -22,7 +22,7 @@
 	
 	--reply-hue: 0;
 	--reply-saturation: 0%;
-	--reply-lightness: 43%;
+	--reply-lightness: 80%;
 	--reply-opacity: 1; /*	-	*/
 
 	--textarea-color: 255,255,255;
