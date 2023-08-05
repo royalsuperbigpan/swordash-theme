@@ -26,10 +26,10 @@
 	--reply-opacity: 1; /*	-	*/
 
 	--textarea-color: 255,255,255;
-	--textarea-alpha: 0.1;
-	--textarea-alpha-focus: 0.1;
+	--textarea-alpha: 0;
+	--textarea-alpha-focus: 0;
 	--textarea-text-color: #fff;
-	--textarea-blur: 16px;
+	--textarea-blur: 0px;
 	--textarea-radius: 22px;  /*	-	*/
 
 	--card-color: rgba(0,0,0,0.4);
